@@ -1,1 +1,0 @@
-"""Base CNN model definition."""
